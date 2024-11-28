@@ -1,4 +1,4 @@
-# Hi, I'm Karim! 👋  
+# Hi, I'm Karim! Full Stack Developer👋  
 
 Welcome to my GitHub! I'm driven by the challenge of solving problems, overcoming difficult situations, and exceeding expectations in everything I do.  
 
