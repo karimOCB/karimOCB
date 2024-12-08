@@ -12,7 +12,7 @@ I believe that growth happens outside of your comfort zone. Whether it's tacklin
 ## 🛠️ Tech Skills  
 - **Databases:** MongoDB, MySQL  
 - **Frontend:** React, TailwindCSS, JavaScript, TypeScript  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Express, Go
 - **Tools:** Git, Github, Spreadsheets  
 - **Other Skills:** Video edition and Scriptwriting.  
 
